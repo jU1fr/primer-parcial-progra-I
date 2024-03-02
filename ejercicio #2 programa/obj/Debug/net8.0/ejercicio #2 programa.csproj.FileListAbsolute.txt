@@ -1,0 +1,14 @@
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #2 programa\bin\Debug\net8.0\ejercicio #2 programa.exe
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #2 programa\bin\Debug\net8.0\ejercicio #2 programa.deps.json
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #2 programa\bin\Debug\net8.0\ejercicio #2 programa.runtimeconfig.json
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #2 programa\bin\Debug\net8.0\ejercicio #2 programa.dll
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #2 programa\bin\Debug\net8.0\ejercicio #2 programa.pdb
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #2 programa\obj\Debug\net8.0\ejercicio #2 programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #2 programa\obj\Debug\net8.0\ejercicio #2 programa.AssemblyInfoInputs.cache
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #2 programa\obj\Debug\net8.0\ejercicio #2 programa.AssemblyInfo.cs
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #2 programa\obj\Debug\net8.0\ejercicio #2 programa.csproj.CoreCompileInputs.cache
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #2 programa\obj\Debug\net8.0\ejercicio #2 programa.dll
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #2 programa\obj\Debug\net8.0\refint\ejercicio #2 programa.dll
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #2 programa\obj\Debug\net8.0\ejercicio #2 programa.pdb
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #2 programa\obj\Debug\net8.0\ejercicio #2 programa.genruntimeconfig.cache
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #2 programa\obj\Debug\net8.0\ref\ejercicio #2 programa.dll

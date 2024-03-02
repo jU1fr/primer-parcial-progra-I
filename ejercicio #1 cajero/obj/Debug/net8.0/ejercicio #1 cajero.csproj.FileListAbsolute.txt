@@ -1,0 +1,14 @@
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #1 cajero\obj\Debug\net8.0\ejercicio #1 cajero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #1 cajero\obj\Debug\net8.0\ejercicio #1 cajero.AssemblyInfoInputs.cache
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #1 cajero\obj\Debug\net8.0\ejercicio #1 cajero.AssemblyInfo.cs
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #1 cajero\obj\Debug\net8.0\ejercicio #1 cajero.csproj.CoreCompileInputs.cache
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #1 cajero\bin\Debug\net8.0\ejercicio #1 cajero.exe
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #1 cajero\bin\Debug\net8.0\ejercicio #1 cajero.deps.json
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #1 cajero\bin\Debug\net8.0\ejercicio #1 cajero.runtimeconfig.json
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #1 cajero\bin\Debug\net8.0\ejercicio #1 cajero.dll
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #1 cajero\bin\Debug\net8.0\ejercicio #1 cajero.pdb
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #1 cajero\obj\Debug\net8.0\ejercicio #1 cajero.dll
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #1 cajero\obj\Debug\net8.0\refint\ejercicio #1 cajero.dll
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #1 cajero\obj\Debug\net8.0\ejercicio #1 cajero.pdb
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #1 cajero\obj\Debug\net8.0\ejercicio #1 cajero.genruntimeconfig.cache
+C:\Users\ian62\OneDrive\Desktop\primer parcial progra I\ejercicio #1 cajero\obj\Debug\net8.0\ref\ejercicio #1 cajero.dll
